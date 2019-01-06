@@ -1,0 +1,102 @@
+﻿  Test.cpp
+c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\dll_markov\dll_markov.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\dll_markov\dll_markov.cpp(43): note: while compiling class template member function 'void DLL_Markov<T>::generate(int)'
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\test\test.cpp(55): note: see reference to class template instantiation 'DLL_Markov<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\test\test.cpp(40): note: while compiling class template member function 'void Test<std::string>::menuDisplay(void)'
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\test\test.cpp(20): note: see reference to function template instantiation 'void Test<std::string>::menuDisplay(void)' being compiled
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\test\test.cpp(11): note: see reference to class template instantiation 'Test<std::string>' being compiled
+c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\ml_markov\ml_markov.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\ml_markov\ml_markov.cpp(53): note: while compiling class template member function 'void ML_Markov<T>::generate(int)'
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\test\test.cpp(58): note: see reference to class template instantiation 'ML_Markov<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\dll_markov\dll_markov.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\dll_markov\dll_markov.cpp(5): note: while compiling class template member function 'std::string DLL_Markov_Node<T>::getRandom(void)'
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\dll_markov\dll_markov.cpp(56): note: see reference to function template instantiation 'std::string DLL_Markov_Node<T>::getRandom(void)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\dll_markov\dll_markov.cpp(30): note: see reference to class template instantiation 'DLL_Markov_Node<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\dll_markov\dll_markov.cpp(25): note: while compiling class template member function 'void DLL_Markov<T>::add(T,T)'
+          with
+          [
+              T=std::string
+          ]
+c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\ml_markov\ml_markov.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\ml_markov\ml_markov.cpp(6): note: while compiling class template member function 'ML_Markov_Node<T> *ML_Markov_Node<T>::getRandom(void)'
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\ml_markov\ml_markov.cpp(66): note: see reference to function template instantiation 'ML_Markov_Node<T> *ML_Markov_Node<T>::getRandom(void)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\ml_markov\ml_markov.cpp(45): note: see reference to class template instantiation 'ML_Markov_Node<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\ml_markov\ml_markov.cpp(27): note: while compiling class template member function 'void ML_Markov<T>::add(T,T)'
+          with
+          [
+              T=std::string
+          ]
+c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\skiplist_markov\skiplist_markov.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\skiplist_markov\skiplist_markov.cpp(6): note: while compiling class template member function 'std::string SkipList_Markov_Node<T>::getRandom(void)'
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\skiplist_markov\skiplist_markov.cpp(53): note: see reference to function template instantiation 'std::string SkipList_Markov_Node<T>::getRandom(void)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\skiplist_markov\skiplist_markov.cpp(48): note: see reference to class template instantiation 'SkipList_Markov_Node<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\skiplist_markov\skiplist_markov.cpp(40): note: while compiling class template member function 'void SkipList_Markov<T>::generate(int)'
+          with
+          [
+              T=std::string
+          ]
+  c:\users\nash\documents\visual studio 2015\projects\markotg\markotg\test\test.cpp(61): note: see reference to class template instantiation 'SkipList_Markov<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  SkipList_Markov.cpp
+  ML_Markov.cpp
+  IVector.cpp
+  IMarkov.cpp
+  DLL_Markov.cpp
+  Generating Code...
+  MarkoTG.vcxproj -> C:\Users\nash\documents\visual studio 2015\Projects\MarkoTG\Debug\MarkoTG.exe
+  MarkoTG.vcxproj -> C:\Users\nash\documents\visual studio 2015\Projects\MarkoTG\Debug\MarkoTG.pdb (Partial PDB)

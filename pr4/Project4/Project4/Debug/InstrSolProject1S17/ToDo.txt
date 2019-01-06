@@ -1,0 +1,9 @@
+NoSqlDb ToDo
+============
+- move query definitions to package StoredProcedures
+- add auto persist functionality using blockingqueue
+
+Completed
+=========
+- add TimeDate package
+- add toXml and fromXml to XmlConvert using same ideas as property getter and setter

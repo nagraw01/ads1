@@ -1,0 +1,21 @@
+﻿  WindowsStopWatch.cpp
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\winstopwatch\windowsstopwatch.cpp(30): warning C4244: 'return': conversion from '__int64' to 'long', possible loss of data
+  SuffTree.cpp
+  start.cpp
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\ahochorasick\ahochorasick.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\ahochorasick\ahochorasick.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\bitoriented\bitoriented.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\start.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\start.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\start.cpp(132): warning C4018: '<': signed/unsigned mismatch
+  RabinKarp.cpp
+  KnuthMoris.cpp
+  BoyerMoore.cpp
+  BitOriented.cpp
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\bitoriented\bitoriented.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  AhoChorasick.cpp
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\ahochorasick\ahochorasick.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\nash\documents\visual studio 2015\projects\assign5\assign5\ahochorasick\ahochorasick.cpp(134): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Assign5.vcxproj -> C:\Users\nash\documents\visual studio 2015\Projects\Assign5\Debug\Assign5.exe
+  Assign5.vcxproj -> C:\Users\nash\documents\visual studio 2015\Projects\Assign5\Debug\Assign5.pdb (Partial PDB)

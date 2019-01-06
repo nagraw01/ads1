@@ -1,0 +1,9 @@
+[China Telecom]], [[Chunghwa Telecom]], [[Cisco Systems]], [[ClariPhy Communications]],
+[[UNH IOL]], [[UTStarcom]], [[Vitesse]]. By September 2006, the study 
+group has completed its charter and IEEE 802.3 formed the 802.3av task 
+force to produce the draft standard for 10 Gbit/s EPON. In September 
+2009, the IEEE 802 Plenary ratified the amendment to 802.3 to make 
+802.3av a standard. 
+The following are the major milestones in 10 Gbit/s EPON study group: 
+{| class="wikitable" border="1" |- ! Date ! Milestone |- | September 2006 
+| IEEE 802.3av task force is formed. 

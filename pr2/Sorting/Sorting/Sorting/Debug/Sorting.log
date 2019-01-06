@@ -1,0 +1,18 @@
+﻿  WindowsStopwatch.cpp
+c:\users\nash\documents\visual studio 2015\projects\sorting\sorting\winstopwatch\windowsstopwatch.cpp(30): warning C4244: 'return': conversion from '__int64' to 'long', possible loss of data
+  ShellSort.cpp
+  SelectionSort.cpp
+  RadixSort.cpp
+  QuickSort.cpp
+  MergeSort.cpp
+  IntroSort.cpp
+  InsertionSort.cpp
+c:\users\nash\documents\visual studio 2015\projects\sorting\sorting\insertion\insertionsort.cpp(5): warning C4018: '<': signed/unsigned mismatch
+  Hello.cpp
+  HeapSort.cpp
+  CountingSort.cpp
+  CombSort.cpp
+  BubbleSort.cpp
+  Generating Code...
+  Sorting.vcxproj -> C:\Users\nash\documents\visual studio 2015\Projects\Sorting\Debug\Sorting.exe
+  Sorting.vcxproj -> C:\Users\nash\documents\visual studio 2015\Projects\Sorting\Debug\Sorting.pdb (Partial PDB)

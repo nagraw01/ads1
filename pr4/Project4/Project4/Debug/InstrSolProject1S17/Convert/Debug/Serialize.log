@@ -1,0 +1,23 @@
+﻿  Convert.cpp
+c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(21): error C2953: 'Convert': class template has already been defined
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(14): note: see declaration of 'Convert'
+c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(32): error C2244: 'Convert::toString': unable to match function definition to an existing declaration
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(27): note: see declaration of 'Convert::toString'
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(32): note: definition
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(32): note: 'std::string Convert::toString(const T &)'
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(32): note: existing declarations
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(32): note: 'std::string Convert<T>::toString(const T &)'
+c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(45): error C2244: 'Convert::fromString': unable to match function definition to an existing declaration
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(39): note: see declaration of 'Convert::fromString'
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(45): note: definition
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(45): note: 'T Convert::fromString(const std::string &)'
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(45): note: existing declarations
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(45): note: 'T Convert<T>::fromString(const std::string &)'
+c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(52): error C2244: 'Convert::id': unable to match function definition to an existing declaration
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(49): note: see declaration of 'Convert::id'
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(52): note: definition
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(52): note: 'std::string Convert::id(const T &)'
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(52): note: existing declarations
+  c:\users\jfawc\desktop\instrsolproject1s2017\utilities\utilities.h(52): note: 'std::string Convert<T>::id(const T &)'
+c:\users\jfawc\desktop\instrsolproject1s2017\serialize\convert.cpp(54): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\jfawc\desktop\instrsolproject1s2017\serialize\convert.cpp(58): warning C4552: '<<': operator has no effect; expected operator with side-effect
